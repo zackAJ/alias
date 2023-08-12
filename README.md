@@ -12,7 +12,7 @@ step by step guide on how to set up a git bash alias with arguments globaly on W
 ## table of content
 
 - [The Goal](#the-goal)
-- [Setup Your Command](#command-setup)
+- [Command Setup](#command-setup)
 - [Steps](#steps)
 
 ---
