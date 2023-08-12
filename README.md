@@ -1,4 +1,4 @@
-# allias
+# alias
 step by step guide on how to set up a git bash alias with arguments globaly on Windows 
 
 ## Requirements
