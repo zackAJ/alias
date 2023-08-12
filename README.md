@@ -11,8 +11,11 @@ step by step guide on how to set up a git bash alias with arguments globaly on W
 
 ## table of content
 
+- [The Goal](#the-goal)
 - [setup your command](#command-setup)
+- [Steps](#steps)
 
+---
 
 ## The Goal
 the goal of this example is to clone any repo from your GitHub profile,
@@ -28,6 +31,8 @@ To this :
 clone <projec-name>
 ```
 
+---
+
 ## Command Setup
 in this example, I'm using my own GitHub profile URL: `https://github.com/zackAJ/`
 
@@ -39,7 +44,9 @@ where:
 - `clone` is the name of the alias, you can name this to anything you like.
 - `$1` is going to be the argument that we pass to the function AKA our `repo name`.
 
-once your command is ready copy it and follow these steps [steps](#steps)
+once your command is ready copy it and follow these steps [Steps](#steps)
+
+---
 
 ## Steps
 
@@ -62,5 +69,6 @@ once your command is ready copy it and follow these steps [steps](#steps)
 clone alias
 ```
 
+![image](https://github.com/zackAJ/alias/assets/101515566/f80abafa-a3db-499f-b065-d338a995a84e)
 
-
+and that's it ! more copy-paste ready aliases are gonna be added soon.
