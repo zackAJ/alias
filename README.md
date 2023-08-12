@@ -54,7 +54,7 @@ once your command is ready copy it and follow these steps [Steps](#steps)
 
 ![image](https://github.com/zackAJ/allias/assets/101515566/a54502cf-7684-44cf-9594-7f3a28eb7f7b)
 
-2- open aliases.sh with a text editor of choice `as an administrator
+2- open `aliases.sh` with a text editor of choice `as an administrator`
 
 3- paste your alias to add it to the list of global aliases and save
 
