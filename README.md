@@ -61,6 +61,9 @@ once your command is ready copy it and follow these steps [Steps](#steps)
 ![image](https://github.com/zackAJ/allias/assets/101515566/b6da8fe1-918e-4974-bb76-6ae152d26310)
 
 4- to check if the alias was added open git bash and enter the `alias` command
+```sh
+alias
+```
 
 ![image](https://github.com/zackAJ/allias/assets/101515566/431dcfeb-eb56-4ab4-8e66-703d4b37386e)
 
